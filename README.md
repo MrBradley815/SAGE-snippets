@@ -1,16 +1,14 @@
 # SAGE-snippets
-JSON file for VS Code, full of snippets for custom form elements
+A collection of JSON snippets for VS Code designed to streamline the creation of custom forms
 
-Install instructions
+Installation Instructions
 --------------------
-1) Open command pallete in VS Code
-2) Search for "Snippets: Configure Your Snippets"
-3) Select html from dropdown list
-4) Paste into the newly created html.json
-5) Stick your left pointer finger into your nose
-6) Wipe your booger on the closest person in the room
+1) Open the command palette in Visual Studio Code.
+2) Search for "Snippets: Configure Your Snippets."
+3) Select "html" from the dropdown list.
+4) Paste the contents of SAGE-snippets into the newly created "html.json" file.
 
-Commands
+Available Snippets
 --------
 **form** - Full form with standard contact form elements  
 **form:text** - Text input element  
